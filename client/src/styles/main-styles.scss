@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+}
+
+$primary-color: #f9f3f3;
+$secondary-color: #ffd700;
+$text-color: #121310;
+
+body {
+  font-family: "Alegreya Sans SC", sans-serif;
+  background-color: $primary-color;
+  color: $text-color;
+}
