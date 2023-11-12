@@ -1,4 +1,4 @@
-# React User Management App
+# React User Management App (MongoDB, Nodejs, ExpressJS)
 
 A simple React app that allows users to be created, updated, deleted, and displayed. The backend is implemented using ExpressJS, NodeJS, and MongoDB.
 
