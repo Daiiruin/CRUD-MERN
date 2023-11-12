@@ -11,8 +11,6 @@ A simple React app that allows users to be created, updated, deleted, and displa
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
