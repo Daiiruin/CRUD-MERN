@@ -29,18 +29,20 @@ Before you begin, ensure you have met the following requirements:
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository.
 
-2. Install dependencies:
+2. Install dependencies in client folder:
 
    ```bash
    cd client
+   npm i
    ```
 
-3. Install dependencies:
+3. Install dependencies in server folder:
 
     ```bash
     npm i
+    npm i -y
     ```
 
 ## Configuration
